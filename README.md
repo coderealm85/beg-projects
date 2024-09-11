@@ -7,7 +7,9 @@ Welcome to beg-projects, a collection of beginner-friendly web development proje
 Project 1: invalid input shake
 
 Description: it's the showcase pf animation , when you don't enter the text in the input text box , it will shake for some time
+
 Technologies Used: HTML, CSS, JavaScript
+
 Key Features:  shaking animation of text box
 
 
