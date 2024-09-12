@@ -2,24 +2,6 @@
 
 Welcome to beg-projects, a collection of beginner-friendly web development projects created using HTML, CSS, and JavaScript. This repository serves as a showcase of foundational skills in front-end development and is perfect for anyone looking to understand basic web technologies.
 
-**Projects Included**
-
-Project 1: invalid input shake
-
-Description: it's the showcase  animation , when you don't enter the text in the input text box , it will shake for some time
-
-Technologies Used: HTML, CSS, JavaScript
-
-Key Features:  shaking animation of text box
-
-Project 2: box shadow generator
-
-Description: A user-friendly tool built with HTML, CSS, and JavaScript that allows developers and designers to create custom CSS box-shadow effects effortlessly. 
-
-Technologies Used: HTML, CSS, JavaScript
-
-Key Features:   interactive interface to adjust shadow properties such as color, blur, spread, and insets, with real-time visual feedback and copyable CSS code.
-
 
 **Getting Started**
 
