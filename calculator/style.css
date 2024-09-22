@@ -1,0 +1,97 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;           
+    margin: 0;
+    background: linear-gradient(to top right,#24ebdd,#e1eeef);
+}
+.container{
+    
+    background-color:rgb(11, 11, 11);
+    border:5px solid black;
+    border-radius: 10px;
+    width: 400px;
+}
+#display{
+    height: 45px;
+    padding: 10px;
+    background-color: whitesmoke;
+    margin: 10px;
+    width: 90%;
+    font-size: 20px;
+}
+.button-container{
+    margin: 3px;
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: centre;
+}
+.button{
+    margin :2px;
+    width: 80px;
+    height: 40px;
+    border-radius: 25%;
+    background-color: grey;
+    color: azure;
+}
+.button:hover{
+    background-color: whitesmoke;
+    cursor: pointer;
+    color: black;
+}
+#zero{
+    width:164px ;
+}
+#slash{
+  background-color: rgb(242, 177, 11);
+}
+#mul{
+    background-color: rgb(242, 177, 11);
+
+}
+  
+  #minus{
+  background-color: rgb(242, 177, 11);
+
+  }
+#plus{
+    background-color: rgb(242, 177, 11);
+
+}
+#equals{
+    background-color: rgb(242, 177, 11);
+
+}
+#AC{
+    background-color: rgb(225, 225, 225);
+    color: black;
+}
+#DEL{
+    background-color: rgb(225, 225, 225);
+    color: black;
+}
+#PER{
+    background-color: rgb(225, 225, 225);
+    color: black;
+}
+#AC:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(245, 234, 234);
+}
+#DEL:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(245, 234, 234);
+}
+#PER:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(245, 234, 234);
+}
+
