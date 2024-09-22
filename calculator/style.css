@@ -94,4 +94,15 @@ body {
     background-color: rgb(0, 0, 0);
     color: rgb(245, 234, 234);
 }
-
+#equals:hover{
+    background-color: aquamarine;
+}
+#slash:hover{
+    background-color: aquamarine;
+}#plus:hover{
+    background-color: aquamarine;
+}#minus:hover{
+    background-color: aquamarine;
+}#mul:hover{
+    background-color: aquamarine;
+}
